@@ -2,6 +2,7 @@
   "name": "n8n-monorepo",
   "version": "1.74.0",
   "private": true,
+  "packageManager": "pnpm@9.5.0",
   "scripts": {
     "prepare": "node scripts/prepare.mjs",
     "preinstall": "node scripts/block-npm-install.js",
